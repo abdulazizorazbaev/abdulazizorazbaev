@@ -9,9 +9,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://linkedin.com/in/abdulaziz-orazbaev-b0a6b5266" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/abdulaziz-orazbaev-b0a6b5266" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100046217357797&mibextid=2jq9oc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100046217357797&mibextid=2jq9oc" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abdulaziz-orazbaev-b0a6b5266" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/abdulaziz-orazbaev-b0a6b5266" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22308335" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22308335" height="30" width="40" /></a>
-<a href="https://instagram.com/abdulaziz.orazbaev.98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdulaziz.orazbaev.98" height="30" width="40" /></a>
+<a href="https://instagram.com/abdulaziz_orazbaev_98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdulaziz.orazbaev.98" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/kevinmcmillan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kevinmcmillan" height="30" width="40" /></a>
 </p>
 

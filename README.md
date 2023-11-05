@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdulaziz Orazbaev</h1>
 <h3 align="center">A passionate .NET developer from Karakalpakstan</h3>
 
-- 🌱 I’m currently learning **MVC, Angular, MVVM, Blazor**
+- 🌱 I’m currently learning **MVC, Blazor, Angular**
 
 - 💬 Ask me about **.net, asp.net, postgresql, c#**
 
